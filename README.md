@@ -61,17 +61,19 @@ Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltr
 
 Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) toolbox, [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),  - 3 lectures 
 
-Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential),FDA on sphere - 3 lectures
+Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 1 lecture
 
-Spectral learning - basic learning theory, spectral geometry, spectral learning - 2 lectures
+Network Hodge theory - [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [spectral learning](https://github.com/laplcebeltrami/BMI768/blob/main/hodgetheory/768-spectral.pdf) - 2 lectures
+
+Inference & permutations - [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 1 weeks
+
+Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 2 weeks
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 3 lectures
 
-Inference & permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 2 weeks
-
 Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 4 lectures
 
-
+Writing technical report - [Basics on technical writing](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report) - 1 lecture
 
 ## 🔴 Outline for 2026 Spring semester
 
@@ -107,11 +109,11 @@ For NDA, Brain Network Analysis, 2019 Cambridge University Press
 
 ## 🔴  Course evaluation 
 
-The course evaluation is based on extended homework assignments (50%) and final project report (50%) related activities. For each homework assignment, assessment consists of a single MATLAB live script explaining solution, codes and visualization. Problems will be drawn from instructor-curated problem sets. For the final project, assessment consists of (i) a final project report with an accompanying MATLAB live script and (ii) a final oral presentation. Project topics are open-ended, and students can choose any topic or dataset, but the project should be based on methods learned through the homework assignments. PhD students who are already engaged in research may use their own datasets, provided that the project applies methods learned through the homework assignments.
+The course evaluation is based on extended homework assignments (50%) and final project report (50%) related activities. For each homework assignment, assessment consists of a single MATLAB live script explaining solution, codes and visualization. Problems will be drawn from instructor-curated problem sets. For the final project, assessment consists of (i) a final project report with an accompanying MATLAB live script and (ii) a final oral presentation. Project topics are open-ended, and students can choose any topic or dataset, but the project should be based on methods learned through the homework assignments or in-class methods. PhD students who are already engaged in research may use their own datasets, provided that the project applies methods learned through the homework assignments or class.
 
-The course is designed for students seeking structured exposure to research, including those conducting research for the first time. Through clearly defined milestones and iterative feedbacks, students complete a research project emphasizing methodological soundness, reproducibility, and professional scientific communication. Sample class projects from previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students typically come from diverse backgrounds, including undergraduate programs, engineering, statistics, computer science, psychology, biology, neuroscience, and medicine. Because the focus of the course changes slightly each semester, previous sample reports may not fully reflect the current semester.
+The course is designed for students seeking structured exposure to research, including those conducting research for the first time. Through clearly defined milestones and iterative feedbacks, students complete a research project emphasizing methodological soundness, reproducibility, and professional scientific communication. Sample class projects from previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students typically come from diverse backgrounds, including undergraduate programs, engineering, statistics, computer science, psychology, biology, neuroscience, and medicine. Because the focus of the course changes slightly each semester, previous sample reports may not fully reflect the current semester. 
 
-The course supports openness and responsible research. At the same time, students are expected to follow the highest standards of academic integrity in all submitted work. Successful students usually have opportunities to work as research assistants during the summer break. 
+The course supports openness and responsible research. At the same time, students are expected to follow the highest standards of academic integrity in all submitted work.
 
 
 ## 🔴 Acknowledgment
